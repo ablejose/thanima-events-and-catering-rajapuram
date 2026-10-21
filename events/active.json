@@ -1,0 +1,37 @@
+{
+  "slug": "thanima-events-and-catering-rajapuram",
+  "name": "Thanima Events and Catering",
+  "shortName": "Thanima",
+  "descriptor": "Catering & Events",
+  "address": "Tagore Public School, Kanhangad - Panathoor Rd, Rajapuram, Keralam 671532",
+  "area": "Rajapuram",
+  "city": "Rajapuram",
+  "district": "Kasaragod",
+  "region": "Kerala",
+  "postalCode": "671532",
+  "geo": {
+    "lat": 12.425240599999999,
+    "lng": 75.2482955
+  },
+  "mapsLink": "https://maps.google.com/?cid=6127473113192012918",
+  "phone": "+91 94964 73461",
+  "whatsapp": "919496473461",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 22,
+  "reviews": [
+    {
+      "name": "Athulya Siby",
+      "rating": 5,
+      "quote": "Very delicious food and nice service 😍"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://thanima-events-and-catering-rajapur.vercel.app"
+}
